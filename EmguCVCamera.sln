@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmguCVCamera", "EmguCVCamera\EmguCVCamera.csproj", "{67732F79-15D0-4A8D-98FE-02054536ED46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmguCVCameraClassLibrary", "EmguCVCameraClassLibrary\EmguCVCameraClassLibrary.csproj", "{B294771D-D1CC-4591-B884-387040911423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67732F79-15D0-4A8D-98FE-02054536ED46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67732F79-15D0-4A8D-98FE-02054536ED46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67732F79-15D0-4A8D-98FE-02054536ED46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67732F79-15D0-4A8D-98FE-02054536ED46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B294771D-D1CC-4591-B884-387040911423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B294771D-D1CC-4591-B884-387040911423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B294771D-D1CC-4591-B884-387040911423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B294771D-D1CC-4591-B884-387040911423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4E9C599-7D4F-4EC8-8F46-029B917986EB}
+	EndGlobalSection
+EndGlobal
